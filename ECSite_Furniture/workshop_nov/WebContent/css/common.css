@@ -1,0 +1,32 @@
+/* .container{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-0%);
+} */
+.navbar{
+    border-bottom: thin solid rgb(229,229,229);
+    width: 100%;
+    z-index: 10;
+}
+.nav-item img{
+    width: 25px;
+}
+.row form{
+	display: inline-block;
+}
+.category-title , .items.img{
+    text-align: center;
+}
+.ja{
+    font-size: medium;
+}
+.img img{
+    width: 100%;
+}
+.navbar button{
+    height: 70%;
+}
+.nav{
+	position:fixed-top;
+}
